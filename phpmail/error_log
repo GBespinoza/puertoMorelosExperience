@@ -1,0 +1,12 @@
+[25-Oct-2018 14:55:32 America/Chicago] PHP Parse error:  syntax error, unexpected '_value' (T_STRING), expecting ',' or ')' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 23
+[25-Oct-2018 15:02:39 America/Chicago] PHP Parse error:  syntax error, unexpected '_value' (T_STRING), expecting ',' or ')' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 23
+[29-Oct-2018 10:27:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'host_plan' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 23
+[29-Oct-2018 10:28:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'host_plan' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 23
+[29-Oct-2018 10:40:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'host_plan' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 24
+[29-Oct-2018 10:44:37 America/Chicago] PHP Parse error:  syntax error, unexpected '_POST' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 24
+[30-Oct-2018 10:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 29
+[30-Oct-2018 11:00:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 29
+[30-Oct-2018 11:06:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 29
+[31-Oct-2018 09:44:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 28
+[31-Oct-2018 09:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 28
+[31-Oct-2018 09:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/geekbuck/public_html/ptoMorelos/phpmail/PRIVATEFISH.php on line 28

@@ -1,0 +1,486 @@
+@font-face {
+	font-family: 'Montserrat-Bold';
+	src: url('../fonts/Montserrat-Bold.ttf');
+
+}
+
+@font-face {
+	font-family: 'Montserrat-Medium';
+	src: url('../fonts/Montserrat-Medium.ttf');
+
+}
+
+@font-face {
+	font-family: 'Montserrat-Regular';
+	src: url('../fonts/Montserrat-Regular.ttf');
+
+}
+
+@font-face {
+	font-family: 'PlayfairDisplay-BoldItalic';
+	src: url('../fonts/PlayfairDisplay-BoldItalic.ttf');
+
+}
+
+.mrg {
+	padding: 0;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.row {
+	max-width: 1200px !important;
+}
+
+.space__0 {
+	height: 27.1px;
+	margin: 0;
+}
+
+.space__0_1 {
+	height: 35px;
+	margin: 0;
+}
+
+.space__00 {
+	height: 10px;
+	margin: 0;
+	margin: 0;
+}
+
+.space__001 {
+	height: 20px;
+	margin: 0;
+	margin: 0;
+}
+
+.space__002 {
+	height: 40px;
+	margin: 0;
+}
+
+.space__003 {
+	height: 50px;
+	margin: 0;
+}
+
+.space__004 {
+	height: 70px;
+	margin: 0;
+}
+
+.space__005 {
+	height: 100px;
+	margin: 0;
+}
+
+.ac {
+	background: #fff7ee !important;
+}
+
+.ac:hover {
+	background: #174543 !important;
+}
+
+.botton__Blanco {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 10px 0 30px 0;
+	-webkit-appearance: none;
+	border: 2px solid #174543;
+	transition: background-color 0.25s ease-out, color 0.25s ease-out;
+	line-height: 1;
+	text-align: center;
+	cursor: pointer;
+	background: #fff;
+	color: #174543;
+	width: -webkit-fill-available;
+	border-radius: 30px;
+	font-size: 19px;
+	font-weight: bold;
+	height: 11px;
+	font-family: 'Montserrat-bold', sans-serif;
+}
+
+.botton__Blanco:hover {
+	background: #174543;
+	color: #fff;
+	border: 2px solid #fff;
+}
+
+.botton__Dorado {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 10px 0 30px 0;
+	-webkit-appearance: none;
+	border: 2px solid #ab761c;
+	transition: background-color 0.25s ease-out, color 0.25s ease-out;
+	line-height: 1;
+	text-align: center;
+	cursor: pointer;
+	background: #ab761c;
+	color: #fff;
+	width: -webkit-fill-available;
+	border-radius: 30px;
+	font-size: 19px;
+	font-weight: bold;
+	height: 11px;
+	font-family: 'Montserrat-bold', sans-serif;
+}
+
+.botton__Dorado:hover {
+	background: #fff;
+	color: #ab761c;
+	border: 2px solid #ab761c;
+}
+
+.botton__Verde {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 10px 0 30px 0;
+	-webkit-appearance: none;
+	border: 2px solid #174543;
+	transition: background-color 0.25s ease-out, color 0.25s ease-out;
+	line-height: 1;
+	text-align: center;
+	cursor: pointer;
+	background: #174543;
+	color: #fff;
+	width: -webkit-fill-available;
+	border-radius: 30px;
+	font-size: 19px;
+	font-weight: bold;
+	height: 11px;
+	font-family: 'Montserrat-bold', sans-serif;
+}
+
+.botton__Verde:hover {
+	background: #fff7ee;
+	color: #174543;
+	border: 2px solid #174543;
+}
+
+.orbit-container:focus {
+	outline: 0;
+}
+
+.orbit-bullets button:focus {
+	outline: 0;
+}
+
+.orbit-bullets button {
+	width: 10px;
+	height: 10px;
+	margin: 0.1rem;
+	border-radius: 50%;
+	background-color: #cacaca;
+}
+
+.orbit-bullets button.is-active {
+	background-color: #174543;
+
+}
+
+/******Heder-AboutUs,Service, Booking, Service.********/
+.parallaxHeder {
+	min-height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.center__Heder_AsB {
+	width: 50%;
+	height: 30%;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+@media screen and (min-width: 800px) {
+	.parallaxHeder {
+		min-height: 500px;
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	.center__Heder_AsB {
+		width: 50%;
+		height: 60%;
+		margin: auto;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	}
+}
+
+.fot__Common {}
+
+.fot__001 {
+	margin: 0;
+	font-family: italic;
+	line-height: 40px;
+	color: #ab761c;
+	font-family: 'PlayfairDisplay-BoldItalic', sans-serif;
+	font-size: 30px;
+	text-align: left
+}
+
+.fot__002 {
+	margin: 0;
+	color: #4f4f4f;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-weight: bold;
+	font-size: 19px;
+	text-align: left;
+}
+
+.fot__003 {
+	font-family: 'Montserrat-Bold', sans-serif;
+}
+
+.fot__common {
+	background: #174543;
+}
+
+.fotText__common {
+	margin: 0;
+	color: #fff;
+	font-family: 'Montserrat-bold', sans-serif;
+	font-size: 10px;
+	letter-spacing: 1px;
+}
+
+.f_001 {
+	width: 70px;
+}
+
+.i_001 {
+	width: 70px;
+}
+
+.y_001 {
+	width: 70px;
+}
+
+.border__002 {
+	border-left: 1px solid rgba(136, 136, 136, 0.47);
+	border-right: 1px solid rgba(136, 136, 136, 0.47);
+}
+
+.border__001 {
+	border-bottom: 1px solid rgba(136, 136, 136, 0.47);
+}
+
+@media screen and (min-width: 800px) {
+	.f_001 {
+		width: 35px;
+	}
+
+	.i_001 {
+		width: 35px;
+	}
+
+	.y_001 {
+		width: 35px;
+	}
+
+	.border__002 {
+		border-left: 1px solid rgba(255, 255, 255, 0);
+		border-right: 1px solid rgba(255, 255, 255, 0);
+	}
+
+	.border__001 {
+		border-bottom: 1px solid rgba(255, 255, 255, 0);
+	}
+}
+
+.btn_menu {
+	margin: 0;
+	font-family: 'Montserrat-Regular', sans-serif;
+	color: #fff;
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.active-mnu {
+	color: #ab761c;
+	border-bottom: 1px solid #ab761c;
+	height: 25px;
+}
+
+.bck_fott {
+	background: #f7f7f7;
+}
+
+.position {
+	float: none;
+}
+
+@media screen and (min-width: 800px) {
+	.position {
+		float: left;
+	}
+}
+
+.h {
+	background: rgba(18, 47, 46, 0);
+	padding: 0;
+}
+
+.h:hover {
+	border-radius: 25px;
+	width: 10px;
+	background: #fff7ee;
+	padding: 0;
+	position: relative;
+	left: 16px;
+}
+
+a {
+	outline: none;
+}
+
+
+
+
+.position-right {
+	top: 0;
+	right: 0;
+	height: 100%;
+	overflow-x: hidden;
+	width: 100% !important;
+	-ms-transform: translateX(250px);
+	transform: translateX(250px);
+	position: fixed;
+	background: #174543;
+}
+
+.button {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0;
+	font-family: inherit;
+	padding: 0;
+	-webkit-appearance: none;
+	border: 1px solid transparent;
+	border-radius: 0;
+	transition: background-color 0.25s ease-out, color 0.25s ease-out;
+	font-size: 0.9rem;
+	line-height: 1;
+	text-align: center;
+	cursor: pointer;
+	background-color: #ab761c;
+	color: none;
+	width: -webkit-fill-available;
+}
+
+.off-canvas-absolute {
+	transition: transform 0.3s ease-out !important;
+}
+
+.menuMovil {
+	margin: 0;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 35px;
+	;
+	color: #ab761c;
+	font-family: 'Montserrat-bold', sans-serif;
+	text-align: center;
+}
+
+
+/*--------------switch traduction-----------------*/
+.overLine {
+	background-image: url(../img/common/switchLanguage.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: auto;
+	height: 20px;
+	padding: 0;
+}
+
+.btn-witch {
+	height: 35px;
+	width: 35px;
+	border-radius: 20px;
+	position: relative;
+	left: -16px;
+	margin: -10px 0;
+	padding: 8px 0;
+	border: 2px solid #174543;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+
+}
+
+.btn-witchEsp {
+	height: 35px;
+	width: 35px;
+	border-radius: 20px;
+	position: relative;
+	left: 20px;
+	margin: -10px 0;
+	padding: 8px 0;
+	border: 2px solid #174543;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.overLine2 {
+	background-image: url(../img/common/switchLanguageW.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: auto;
+	height: 20px;
+	padding: 0;
+}
+
+.btn-witchGree {
+	height: 35px;
+	width: 35px;
+	border-radius: 20px;
+	position: relative;
+	left: -16px;
+	margin: -10px 0;
+	background: #ab761c;
+	border: 2px solid #fff;
+	padding: 8px 0;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #fff;
+}
+
+.btn-witchGreeEsp {
+	height: 35px;
+	width: 35px;
+	border-radius: 20px;
+	position: relative;
+	left: 35px;
+	margin: -10px 0;
+	background: #ab761c;
+	border: 2px solid #fff;
+	padding: 8px 0;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #fff;
+}
+
+/*--------------end switch traduction-----------------*/
